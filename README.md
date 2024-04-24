@@ -30,3 +30,7 @@ uvicorn main:app --reload
 
 The `--reload` flag enables hot reloading so the server will automatically reload when you make changes to your code.
 You should see output indicating that the server is running, typically on `http://127.0.0.1:8000`.
+
+### View docs
+
+View API documentation at http://127.0.0.1:8000/docs#/.
